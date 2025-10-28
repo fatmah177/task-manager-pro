@@ -1,4 +1,4 @@
-# app.py
+# app.py hallo 
 # ===============================
 # Diese Datei startet den Flask-Webserver und definiert "Routen" (URLs),
 # die dein Browser aufrufen kann. Jede Route liefert eine Antwort zurück.
